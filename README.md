@@ -1,0 +1,3 @@
+- 👋 Hi fellows I’m Krishnav Rajbangshi, a student of CSE branch at NIT SILCHAR...
+- 👀 I’m interested in Machine Learning,Deep Learning for now.
+- 🌱 I’m currently exploring more of ML & DL. 
